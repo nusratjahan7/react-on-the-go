@@ -25,3 +25,8 @@
 .image{
     width: 100%;
 }
+
+.visited-flags-container img{
+    width: 150px;
+    margin-right: 10px;
+}
